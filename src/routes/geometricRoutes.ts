@@ -1,7 +1,5 @@
 import express from 'express'
-// import { Circulo } from "";
-// import { Cubo } from "";
-// import { Triangulo } from "";
+// import { Circulo, Cubo, Triangulo } from "";
 
 const router = express.Router();
 // conts circuloController = new Circulo(BaseDatos)
